@@ -1,9 +1,14 @@
-{
-    "products":[
-        {
-            "image": "products/pants.jpg", "string": "Fuck you Bro"
-        }
-    ]
-  }
+[
+    {
+        "productName": "BEIGE TEE",
+        "productPrice": 26560,
+        "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/beige_tee.jpg",
+        "productBrand": "H&M",
+        "productCatregory": "tshirts"
+
+    }
+    
+]
+
 
 
