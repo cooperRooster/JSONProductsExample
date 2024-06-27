@@ -4,7 +4,7 @@
         {
             "productName": "BEIGE TEE",
             "productPrice": 26560,
-            "imageUrl": "",
+            "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/beige_tee.jpg",
             "productBrand": "H&M",
             "productCatregory": "tshirts"
 
