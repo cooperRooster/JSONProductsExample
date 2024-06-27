@@ -1,14 +1,17 @@
-[
-    {
-        "productName": "BEIGE TEE",
-        "productPrice": 26560,
-        "imageUrl": "",
-        "productBrand": "H&M",
-        "productCatregory": "tshirts"
-
-    }
+{
+    "products":[
     
-]
+        {
+            "productName": "BEIGE TEE",
+            "productPrice": 26560,
+            "imageUrl": "",
+            "productBrand": "H&M",
+            "productCatregory": "tshirts"
+
+        }
+    
+    ]
+}
 
 
 
