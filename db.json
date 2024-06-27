@@ -3,11 +3,26 @@
     
         {
             "productName": "BEIGE TEE",
-            "productPrice": 26560,
+            "productPrice": 6560,
             "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/beige_tee.jpg",
             "productBrand": "H&M",
             "productCatregory": "tshirts"
 
+        },
+
+        {
+            "productName": "Air Jordan 1 University",
+            "productPrice": 26460,
+            "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/jordan1_university.jpg",
+            "productBrand": "NIKE",
+            "productCatregory": "shoes"
+        },
+        {
+            "productName": "Air Jordan 22 White Varsity",
+            "productPrice": 22450,
+            "imageUrl": "https://github.com/cooperRooster/JSONProductsExample/blob/main/images/jordan22_white.jpg?raw=true",
+            "productBrand": "NIKE",
+            "productCatregory": "shoes"
         }
     
     ]
