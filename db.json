@@ -6,7 +6,8 @@
             "productPrice": 6560,
             "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/beige_tee.jpg",
             "productBrand": "H&M",
-            "productCatregory": "tshirts"
+            "productCatregory": "tshirts",
+            "rating": 4
 
         },
 
@@ -15,14 +16,16 @@
             "productPrice": 26460,
             "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/jordan1_university.jpg",
             "productBrand": "NIKE",
-            "productCatregory": "shoes"
+            "productCatregory": "shoes",
+            "rating": 4
         },
         {
             "productName": "Air Jordan 22 White Varsity",
             "productPrice": 22450,
             "imageUrl": "https://github.com/cooperRooster/JSONProductsExample/blob/main/images/jordan22_white.jpg?raw=true",
             "productBrand": "NIKE",
-            "productCatregory": "shoes"
+            "productCatregory": "shoes",
+            "rating" : 4.5
         }
     
     ]
