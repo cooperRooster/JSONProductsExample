@@ -7,7 +7,7 @@
             "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/beige_tee.jpg",
             "productBrand": "H&M",
             "productCatregory": "tshirts",
-            "rating": 4
+            "rating": 4.0
 
         },
 
@@ -17,7 +17,7 @@
             "imageUrl": "https://raw.githubusercontent.com/cooperRooster/JSONProductsExample/main/images/jordan1_university.jpg",
             "productBrand": "NIKE",
             "productCatregory": "shoes",
-            "rating": 4
+            "rating": 4.0
         },
         {
             "productName": "Air Jordan 22 White Varsity",
